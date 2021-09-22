@@ -42,11 +42,12 @@ h1 {
 
 h2 {
   font-size: var(--h2-size);
-  line-height: var(--h2-ln-h);
 }
 
 h3 {
   font-size: var(--h3-size);
+  color: var(--color-link);
+  line-height: var(--h2-ln-h);
 }
 
 html {

@@ -10,7 +10,8 @@ paginate               = 50
 relativeURLs           = true
 
 [Params]
-# mainSections = "post"
+mainSections = "posts"
+commandSection = "commands"
 # pagewidth    = "1200px"
 # startdate    = "2012-12-02"
 favicon        = "/favicon.ico"
