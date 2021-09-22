@@ -1,0 +1,25 @@
+description = ""
+features    = []
+homepage    = ""
+license     = "MIT"
+licenselink = ""
+min_version = "0.65.0"
+name        = "SK3"
+tags        = [
+	"blog",
+	"clean",
+	"customizable",
+	"dark",
+	"disqus",
+	"google adsense",
+	"google analytics",
+	"minimal",
+	"mobile",
+	"personal",
+	"responsive",
+	"simple",
+]
+
+[author]
+homepage = "https://johnsiu.com/"
+name     = "John Siu"
