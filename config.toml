@@ -36,7 +36,7 @@ summary = true
 # [Params.color]
 bg     = "white"
 border = "white"
-link   = "#019589"
+link   = "red"
 text   = "white"
 
 [Params.sociallink]
