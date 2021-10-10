@@ -1,5 +1,5 @@
 +++
-Title = "Corepunk BETA (MAYBE)"
+Title = "Corepunk BETA"
 Author = "Keyb1nd"
 date = 2021-01-07T14:42:23Z
 +++

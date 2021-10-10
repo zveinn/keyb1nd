@@ -1,5 +1,5 @@
 +++
-Title = "Battlefield 2042 (MAYBE)"
+Title = "Battlefield 2042"
 Author = "Keyb1nd"
 date = 2021-01-04T14:42:23Z
 +++
